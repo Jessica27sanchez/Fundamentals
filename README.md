@@ -52,7 +52,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Jump Box | Gateway  | 52.250.126.157   | Linux            |
 | Web-1   | DVWA      | 10.0.0.5         | Linux            |
 | Web-2   | DVWA      | 10.0.0.6         |   Linux          |
-| Web-3   | ELK       | 10.1.0.7         |     Linux        |
+| Web-3   | DVWA       | 10.0.0.7         |     Linux        |
 
 ### Access Policies
 
