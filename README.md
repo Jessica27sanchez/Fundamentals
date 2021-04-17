@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 ### Elk Diagram
 
-<iframe src="https://drive.google.com/file/d/1uGlgHDMDktl-KLbiAH1Hbnqm-gZq4QYP/preview" width="640" height="480"></iframe>
+![Diagram](https://github.com/Jessica27sanchez/Fundamentals/blob/main/Diagram/HW-12-Cloud-Security.png)
 
 
 
